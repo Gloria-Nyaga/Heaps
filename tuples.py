@@ -42,3 +42,6 @@ print("count of Malawi in countires:",res)
 numbers=(10,2,3,4,5,3,24,8,9,10,98,76,3,10,31,24,10)
 res = numbers.index(24)
 print("index occurrence of 24 is",res)
+
+
+# d
