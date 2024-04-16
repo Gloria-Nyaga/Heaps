@@ -1,7 +1,6 @@
 
 import heapq
 
-
 numbers = [10, 3, 56, 8, 9, 32, 40, 1, 7, 13,25]
 
 heapq.heapify(numbers)
