@@ -1,4 +1,4 @@
-# Heaps
+# HEAPS
 HEAP- this is a binary tree data structure that satisfies the heap property that the value of each node is greater than or equal to the value of its children.
 Max-Heap: Tracks the maximum values in a data set. Parent node is greater than or equal to the children node.
 Min-Heap: Tracks the minimum values in a data set. Parent node is less than or equal to the children node.
@@ -40,3 +40,40 @@ Removing Items in a heap
 2. Delete the last element from the heap.
 3. Check if the heap is following the property of the heap or not. 
 4. Apply the heapify method to create a proper heap.
+
+
+# TUPLES
+Tuple - It is a built-in data structure  that consists of immutable ordered set of values that store multiple data types.
+
+PROPERTIES OF A TUPLE
+
+1. Ordered 
+ - Its elements always remain in their positions.
+ - It does not change its order every time it’s called.
+
+2. They are Immutable
+ - Once the value is assigned, it can neither be modified or deleted.
+
+3. It can hold duplicates
+ - It allows multiple combinations of data types.
+
+
+ADVANTAGES OF A TUPPLE
+
+1. It is faster than lists.
+2. It can be used as dictionary keys is it contains immutable values like strings, numbers or  another tuple.
+3. They use less memory.
+4. Processing a tuple is faster.
+
+
+DISADVANTAGES
+
+1. They are immutable.
+- One cannot delete or add an element in a tuple.
+2. They are less flexible than lists.
+3. You can’t sort a tuple.
+4. You cannot replace an element in a tuple one has to convert it to a list first.
+
+
+
+
